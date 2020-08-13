@@ -1,0 +1,5 @@
+1) Reconstruct Iternary 
+	a -> b -> c -> d -> e
+	We use PQ to start from the end and keep on adding elements at the begining
+
+2)

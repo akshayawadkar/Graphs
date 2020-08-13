@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 5 resources" deleteContents="true" description="Delete 5 resources" element1="/1_Graph" element2="/1_Graph_Directed" element3="/BFS" element4="/DFS" element5="/TopologicalSort" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="5" stamp="1586880260781"/>
+</session>

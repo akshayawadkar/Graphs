@@ -1,0 +1,2 @@
+for i in len(100):
+	print(i)
